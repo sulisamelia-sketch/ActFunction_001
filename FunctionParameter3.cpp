@@ -11,5 +11,14 @@ void input()
 
 }
 
+float luas (float a)
+{
+
+    return phi * a * a;
+}
+ void output()
+ {
+    cout << "Luasnya adalah : " << luas(r);
+ }
 
 
